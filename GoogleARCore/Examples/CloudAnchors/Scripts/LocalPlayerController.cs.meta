@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 402737a5186cd48cd86798c77074db79
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - StarPrefab: {fileID: 1887488130130565494, guid: 265cc7c7dfbebb34e87a4ccb5779db25,
+      type: 3}
+  - m_trackedPlanePrefab: {instanceID: 0}
+  - Camera: {instanceID: 0}
+  - AnchorPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

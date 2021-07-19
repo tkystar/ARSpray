@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 23e3f20de6c2e405a93736a38f74b0fb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - DrawablePlane: {fileID: 864091007558581871, guid: cd1abd1b80a76834cb18979cce7fcd9e,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
